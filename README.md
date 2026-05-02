@@ -1,11 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Jenny Nguyen 👋
 
+I'm a recent Data Science graduate at Tilburg University in the Netherlands. Before data science, I worked in digital marketing and operations, where I learned how businesses move, how teams make decisions, and how small inefficiencies can create big challenges. I was curious to dive deeper into the "why" behind the "what", which motivates me to transition to data science.
+
+🔭 I’m currently working on: My thesis project to predict flood in the Mekong Delta using time-series modelling.
+🌱 My previous project: Image segmentation.
 <!--
 **jennynguyen1908/jennynguyen1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+### 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
