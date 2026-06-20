@@ -1,12 +1,15 @@
 ### Hi there, I'm Jenny Nguyen 👋
 
-I'm a Data Science student at Tilburg University in the Netherlands 🤓
+I'm a recent Data Science graduate at Tilburg University in the Netherlands 🤓
 
-Before data science, I worked in digital marketing and operations, where I learned how businesses move, how teams make decisions, and how small inefficiencies can create big challenges. I was curious to dive deeper into the "why" behind the "what", which motivates me to transition to data science.
+👩‍💻 Before data science, I worked in digital marketing and operations, where I learned how businesses move, how teams make decisions, and how small inefficiencies can create big challenges. I was curious to dive deeper into the "why" behind each business decision, which motivates me to transition to data science.
 
-🔭 I’m currently working on: My thesis project to predict flood in the Mekong Delta using time-series modelling.
-
-🌱 My previous project: Image segmentation.
+🌱 My projects
+| Project  | What I built | Domain | Tools |
+| ------------- | ------------- | ------------- | ------------- |
+| [Bank customer churn](https://github.com/jennynguyen1908/bank-customer-churn)  | Dashboard and predictive model for customer churn  | `Data Analysis` `Data Visualization` `Machine Learning` | `Python` `Tableau`
+| [Flood forecasting (thesis)](https://github.com/jennynguyen1908/thesis-flood-prediction-in-Mekong-Delta) | Grid-based flood time series forecasting | `Statistical Model` `Deep Learning` `Geospatial Analytics` | `Python`
+| [Flower Image Segmentation](https://github.com/jennynguyen1908/image-segmentation) | Flower detection and segmentation | `Image Analysis` | `Python` 
 <!--
 **jennynguyen1908/jennynguyen1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
