@@ -2,7 +2,7 @@
 
 I'm a recent Data Science graduate at Tilburg University in the Netherlands 🤓
 
-👩‍💻 Before data science, I worked in digital marketing and operations, where I learned how businesses move, how teams make decisions, and how small inefficiencies can create big challenges. I was curious to dive deeper into the "why" behind each business decision, which motivates me to transition to data science.
+👩‍💻 Before data science, I worked in digital marketing and operations, where I learned how businesses move, how teams make decisions, and how small inefficiencies can create big challenges. I was curious to dive deeper into the "why" behind business decisions, which motivates me to transition to data science.
 
 🌱 My projects
 | Project  | What I built | Domain | Tools |
